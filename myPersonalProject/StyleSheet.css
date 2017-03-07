@@ -1,0 +1,45 @@
+﻿* {
+    margin: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.myHeader {
+    height: 100px;
+    background: lightgrey;
+}
+.myMenu {
+    text-align: right;
+    float: right;
+}
+.content {
+    margin-left: 20px;
+
+}
+.lblWatchTitle {
+    
+}
+.meImage {
+    float:left;
+}
+.lblDT{
+    float:left;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+}
+.aboutMe {
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.contactMe {
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+.aboutImg {
+    text-align:center;
+}

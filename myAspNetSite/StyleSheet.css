@@ -1,0 +1,41 @@
+﻿* {
+    margin: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background: lightgray;
+}
+.myHeader {
+    height: 100px;
+    background: lightblue;
+}
+.myMenu {
+    text-align: right;
+    float: right;
+}
+.content {
+    margin-left: 20px;
+}
+.lbl {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 150px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.fldGrp {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.fld {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 150px;
+    padding-left: 10px;
+    padding-top: 5px;
+}

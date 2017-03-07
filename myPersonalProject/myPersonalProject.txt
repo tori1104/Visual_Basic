@@ -1,0 +1,18 @@
+﻿8:48:07 AM Wednesday, June 01, 2016
+Error creating contacts table -msg- insert into contacts (fTB,lTB,favShowTB, favShowDD, favMovieTB, favMovieDD) values  ('aaa','aaa','aaa','Action','aaa','Action');
+8:48:40 AM Wednesday, June 01, 2016
+Error creating contacts table -msg- insert into contacts (fTB,lTB,favShowTB, favShowDD, favMovieTB, favMovieDD) values  ('bbb','bbb','bbb','Action','bbb','Action');
+8:49:18 AM Wednesday, June 01, 2016
+Error creating contacts table -msg- insert into contacts (fTB,lTB,favShowTB, favShowDD, favMovieTB, favMovieDD) values  ('ccc','ccc','ccc','Action','ccc','Action');
+9:04:08 AM Wednesday, June 01, 2016
+Error creating contacts table -msg- insert into contacts (fTB,lTB,favShowTB, favShowDD, favMovieTB, favMovieDD) values  ('111','111','111','Action','111','Action');
+9:04:16 AM Wednesday, June 01, 2016
+Error creating contacts table -msg- insert into contacts (fTB,lTB,favShowTB, favShowDD, favMovieTB, favMovieDD) values  ('111aaaa','111a','111a','Action','111a','Action');
+9:27:30 AM Wednesday, June 01, 2016
+Error creating contacts table -msg- insert into contacts (fTB,lTB,favShowTB, favShowDD, favMovieTB, favMovieDD) values  ('aaa','aaa','aaa','Action','aaa','Action');
+9:29:24 AM Wednesday, June 01, 2016
+Error creating contacts table -msg- insert into contacts (fTB,lTB,favShowTB, favShowDD, favMovieTB, favMovieDD) values  ('aaa','aa','aa','Action','aa','Action');
+8:22:41 AM Monday, June 06, 2016
+Error creating contacts table -msg- CREATE TABLE contacts (ID int IDENTITY(1,1) PRIMARY KEY, lTB varchar (100) NULL,fTB varchar (50) NULL;
+8:36:59 AM Monday, June 06, 2016
+Error creating contacts table -msg- CREATE TABLE contacts (ID int IDENTITY(1,1) PRIMARY KEY, lTB varchar (100) NULL,fTB varchar (50) NULL;

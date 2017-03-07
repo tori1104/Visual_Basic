@@ -1,0 +1,1 @@
+﻿select fTB from contacts;
